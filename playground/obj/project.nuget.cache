@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gryb6iuU6CrPKPWGnc6AY0q0N3lE1IIhA+PF0YA4fO0zwlY/Cj0jRCy9fPjBtMqUBxuwMmL19X9b8UFoMttT3A==",
+  "success": true,
+  "projectFilePath": "/Users/chris/code/sql/sql-server/playground/playground.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/chris/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/chris/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+/Users/chris/code/sql/sql-server/playground/bin/Debug/playground.dacpac
+/Users/chris/code/sql/sql-server/playground/bin/Debug/playground.dll
+/Users/chris/code/sql/sql-server/playground/bin/Debug/playground.pdb
+/Users/chris/code/sql/sql-server/playground/obj/Debug/Model.xml
+/Users/chris/code/sql/sql-server/playground/obj/Debug/refactor.xml
+/Users/chris/code/sql/sql-server/playground/obj/Debug/postdeploy.sql
+/Users/chris/code/sql/sql-server/playground/obj/Debug/predeploy.sql
+/Users/chris/code/sql/sql-server/playground/obj/Debug/playground.dll
+/Users/chris/code/sql/sql-server/playground/obj/Debug/playground.pdb
